@@ -45,6 +45,11 @@ return inquirer.prompt([
      ]
  },
  {
+    type:"input",
+    message:"Please provide a description of the license to use:",
+    name:"license"
+},
+ {
      type:"input",
      message:"Any contributions on this project? ",
      name:"contributions"
