@@ -89,13 +89,14 @@ ${answers.badge ==="Apache" ? "Apache"+""+'<br>'+""+"[![License](https://img.shi
         ${answers.usage}
 ## License
         ${answers.badge}
+        ${answers.license}
 ## Contributing
         ${answers.contributions}
 ## Tests
         ${answers.test}
 ## Questions
 For questions regarding this application please contact me at:
-    - E-mail ${answers.email}
+    - E-mail ${answers.Email}
     - Github:
     <${profile}>
 
