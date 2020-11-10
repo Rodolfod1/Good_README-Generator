@@ -3,14 +3,15 @@
 MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description 
      this document is about writing a README using nodejs 
-## Table of contents
-    * [Description](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+## Table of contents:
+
+    *[Description](#description)
+    *[Installation](#installation)
+    *[Usage](#usage)
+    *[License](#license)
+    *[Contributing](#contributing)
+    *[Tests](#tests)
+    *[Questions](#questions)
 
 ## Installation
         please use npm install and then execute node index.js
