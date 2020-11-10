@@ -1,7 +1,7 @@
 
 # Titulo de mi Readme personal 
 ## Licensing 
-###IBM<br>[![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+-IBM<br>[![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 ## Description 
      about
 ## Table of contents
