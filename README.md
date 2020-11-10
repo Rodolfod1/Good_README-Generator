@@ -1,27 +1,27 @@
 
-# This is the title of my README file 
+# This is the tittle of my APP on this case my README
 MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description 
-     On this section i will drescribe what is the application about, I will try to be as much detailed as it can be 
+     this document is about writing a README using nodejs 
 ## Table of contents
-* Description(#description)
-* Installation(#installation)
-* Usage(#usage)
-* License(#license)
-* Contributing(#contributing)
-* Tests(#tests)
-* Questions(#questions)
+    * [Description](#description)
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [License](#license)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
+    * [Questions](#questions)
 
 ## Installation
-        Please run npm install  and then run node index.js
+        please use npm install and then execute node index.js
 ## Usage 
-        This app can be used to generate a baseline README file 
+        This app can be used to get a README baseline 
 ## License
         MIT
 ## Contributing
-        This project was developed by Rodolfo Diaz on Nov-08-2020
+        just Rodolfo Diaz
 ## Tests
-        Can be tested manually or with any testing tool
+        this can be tested manually or with any tool
 ## Questions
         - for questions regarding this application please contact me at:
         - E-mail undefined
