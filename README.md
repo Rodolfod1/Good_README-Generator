@@ -1,8 +1,8 @@
 
-# This is my Title for this README 
+# This is my title for the README 
 MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description 
-     Demonstration of functionality of my app for a new readme generator 
+     this is about demonstrating how the application works
 ## Table of contents
 * [Description](#description)
 * [Installation](#installation)
@@ -13,20 +13,20 @@ MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](ht
 * [Questions](#questions)
 
 ## Installation
-        run npm install inquirer then run node index.js
+        this requires inquirer to work, please run npm install inquirer and then execute node index.js
 ## Usage 
-        the user will have a README baseline with the basic content to document its application
+        the user will have a good auto-generated README baseline 
 ## License
         MIT
-        covered under MIT
+        Covered by MIT
 ## Contributing
         Rodolfo Diaz
 ## Tests
-        can be manually tested or using any tool
+        Can be manually tested or using any tool 
 ## Questions
 For questions regarding this application please contact me at:
     - E-mail rodolfodzr@gmail.com
     - Github:
-    <https://github.com/rodolfo01>
+    <https://github.com/rodolfod1>
 
     
