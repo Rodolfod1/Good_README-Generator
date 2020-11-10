@@ -1,24 +1,31 @@
 
-# Here it is the title of my README file 
-IBM<br>[![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+# This is the title of my README file 
+MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description 
-     This document will contain a drescription of the application im running 
+     On this section i will drescribe what is the application about, I will try to be as much detailed as it can be 
 ## Table of contents
-- info 1 - info 2 - info 3
+* Description(#description)
+* Installation(#installation)
+* Usage(#usage)
+* License(#license)
+* Contributing(#contributing)
+* Tests(#tests)
+* Questions(#questions)
+
 ## Installation
-        installation instructions
+        Please run npm install  and then run node index.js
 ## Usage 
-        this will drescribe the usage
+        This app can be used to generate a baseline README file 
 ## License
-        IBM
+        MIT
 ## Contributing
-        a lot of people contributed
+        This project was developed by Rodolfo Diaz on Nov-08-2020
 ## Tests
-        test under EDC method
+        Can be tested manually or with any testing tool
 ## Questions
         - for questions regarding this application please contact me at:
         - E-mail undefined
         - Github:
-        <https://github.com/rodo1>
+        <https://github.com/rodolfo01>
 
     
