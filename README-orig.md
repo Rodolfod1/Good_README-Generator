@@ -20,13 +20,13 @@ This 'Node.js' application can be used by any one who would like to save time an
 a command line prompt will guide the user thru a series of questions directed to auto populate the README.md file once all the questions of the prompt are done. 
 
 - Here it is an example of the questions prompted when the application is started:
-[ApplicationStatingImg](assets/promtingQuestions.jpg)
+    ![ApplicationStatingImg](assets/promtingQuestions.jpg)
 
 - Once all questions are completed an alert is displayed.
-[AlertDisplayImg](assets/OnceisDone.jpg)
+    ![AlertDisplayImg](assets/OnceisDone.jpg)
 
 - This is an example of the written file once the program is completed. 
-[ResultsImg](assets/Resultwritten.jpg)
+    ![ResultsImg](assets/Resultwritten.jpg)
 
 ## Installation:
 -----------
