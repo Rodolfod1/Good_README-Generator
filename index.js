@@ -94,10 +94,10 @@ ${answers.badge ==="Apache" ? "Apache"+""+'<br>'+""+"[![License](https://img.shi
 ## Tests
         ${answers.test}
 ## Questions
-        - for questions regarding this application please contact me at:
-        - E-mail ${answers.email}
-        - Github:
-        <${profile}>
+For questions regarding this application please contact me at:
+    - E-mail ${answers.email}
+    - Github:
+    <${profile}>
 
     `; 
 }
