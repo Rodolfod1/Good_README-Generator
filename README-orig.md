@@ -15,7 +15,6 @@ Node.js Command-line application  for quick and easy README files to get started
 * [Link to video](#link-to-video)
 
 ## Usage:
------------
 This 'Node.js' application can be used by any one who would like to save time and still have a good README baseline that complies with the most used guidelines on making .md files.
 a command line prompt will guide the user thru a series of questions directed to auto populate the README.md file once all the questions of the prompt are done. 
 
@@ -29,17 +28,14 @@ a command line prompt will guide the user thru a series of questions directed to
     ![ResultsImg](assets/Resultwritten.jpg)
 
 ## Installation:
------------
 The application requires 'inquirer' and 'util' node packages. 
 Run 'npm install inquirer' and 'npm install util' before executing 'node index.js'
 
 ## License
------------
 I have used the MIT license for this application see repository documentation 
 <https://github.com/Rodolfod1/Good_README-Generator/blob/main/LICENSE>
 
 ## Testing
-----------
 This can be manually tested or using any test tool
 
 ## Link To Video demonstrating the app:

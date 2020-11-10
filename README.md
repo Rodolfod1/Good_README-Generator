@@ -18,7 +18,7 @@ MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](ht
         the user will execute the program and a prompt will guide him thru the README structure once all questions are displayed and the aswers are provided a new README.md file is written 
 ## License
         MIT
-        Covered uder MIT license 
+        Covered under MIT license 
 ## Contributing
         No external contributors just Rodolfo Diaz working by himself 
 ## Tests
