@@ -1,25 +1,25 @@
 
-# Titulo de mi Readme personal 
+# Titi
 ## Licensing 
--IBM<br>[![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description 
      about
 ## Table of contents
         table
 ## Installation
-        instrucciones
-## Usage 
-        use
-## License
-        IBM
-## Contributing
         none
+## Usage 
+        idk
+## License
+        MIT
+## Contributing
+        idk
 ## Tests
-        ts
+        none
 ## Questions
         - for questions regarding this application please contact me at:
         - E-mail undefined
         - Github:
-        [<https://github.com/rodo01>]
+        <https://github.com/dk>
 
     
